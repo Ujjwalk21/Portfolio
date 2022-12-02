@@ -16,7 +16,7 @@ export default function Hero() {
             </div>
             <div className="mb-[3rem]">
               <h1 className="text-5xl font-bold  sm:text-5xl ">
-              for the academic year 2021-22.
+              for the academic year 2022-23.
               </h1>
             </div>
           </div>
