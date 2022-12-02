@@ -4,7 +4,7 @@ export default function Footer (){
 	<div className="container flex flex-col p-4 mx-auto md:p-8 lg:flex-row divide-coolGray-400">
 		<ul className="self-center py-6 space-y-4 text-center sm:flex sm:space-y-0 sm:justify-around sm:space-x-4 lg:flex-1 lg:justify-start">
 		{ <a href=" " title="LOGO-Aeromodelling club" className="flex items-center justify-center rounded-full bg-[#EF404A]">
-				    <img src="./LOGO.png" width="100" height="100"></img>
+				    <img src="https://lh3.googleusercontent.com/yEbmjAdZmvYtwOXavNjbiC62TCAh2dGDDx_ly0TyeIHfuDw07SjLjDK1etgzIVWTtB0=w2400" width="100" height="100"></img>
 				</a> }
 		</ul>
 		<div className="flex flex-col justify-center pt-6 lg:pt-0">
